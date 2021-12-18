@@ -48,5 +48,6 @@
   "terminal.integrated.fontSize": 14,
   "typescript.updateImportsOnFileMove.enabled": "always",
   "material-ui-snippets.showNotesOnStartup": false,
-  "window.zoomLevel": 1
+  "window.zoomLevel": 1,
+  "explorer.compactFolders": false
 }
